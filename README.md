@@ -1,4 +1,4 @@
-# Eelbot
+# Eelborg - The next evolution of Eelbot.
 
 ## Build
 
